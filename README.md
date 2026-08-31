@@ -1,7 +1,21 @@
-# **Ahoj 👋, jsem Fejby!**
+<div align="center">
 
+# 👋 Hi there, I'm Fabián (FejbyK)
 
-- 🐐 Jsem Kozel
-- 🔭 Momentálně pracuji na https://basicblock.cz/ a https://mcnavody.eu/
-- 🌱 V současné době se učím Javu, PHP, JavaScript a další
-- 📫 Kontaktovat mě můžeš přes Discord (Fejby)
+[LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-kozel-6061b823b/) • [Discord](https://discord.com/users/772752814471905280) • [SimpleX Chat](https://smp10.simplex.im/a#GZptnUnhxHC6eJOAiCuOxo3PnXpJyAywMpsX_4BW1lI)
+
+---
+
+Linux system administrator and self-hosting enthusiast with a focus on stable server infrastructure, virtualization, and smart home automation. I enjoy deploying reliable network setups, managing databases, and automating everyday workflows.
+
+---
+
+</div>
+
+- 🐧 **Focus:** Linux Server Administration & Virtualization
+- 🛠️ **Tech & Tools:** Docker, Proxmox VE, OpenWrt, MikroTik, PostgreSQL, MariaDB
+- 🌐 **Services:** Webhosting, Mail servers, Game servers, WordPress & CMS
+- 🏠 **Smart Home:** Home Assistant, IoT integrations & Home Automation
+- 💬 **Ask me about:** Self-hosting, Linux networking, server configurations
+
+- 🚀 **Projects:** [mcnavody.eu](https://mcnavody.eu/) • [basicblock.cz](https://basicblock.cz/)
