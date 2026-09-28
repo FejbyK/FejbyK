@@ -13,7 +13,7 @@ Linux system administrator and self-hosting enthusiast with a focus on stable se
 </div>
 
 - 🐧 **Focus:** Linux Server Administration & Virtualization
-- 🛠️ **Tech & Tools:** Docker, Proxmox VE, OpenWrt, MikroTik, PostgreSQL, MariaDB
+- 🛠️ **Tech & Tools:** Docker, Proxmox VE, OpenWrt, MikroTik, Ubiquiti, PostgreSQL, MariaDB
 - 🌐 **Services:** Webhosting, Mail servers, Game servers, WordPress & CMS
 - 🏠 **Smart Home:** Home Assistant, IoT integrations & Home Automation
 - 💬 **Ask me about:** Self-hosting, Linux networking, server configurations
