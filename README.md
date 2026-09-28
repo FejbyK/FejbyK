@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Fabián (FejbyK)
 
-[LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-kozel-6061b823b/) • [Discord](https://discord.com/users/772752814471905280) • [SimpleX Chat](https://smp10.simplex.im/a#GZptnUnhxHC6eJOAiCuOxo3PnXpJyAywMpsX_4BW1lI)
+[LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-kozel-6061b823b/) • [Discord](https://discord.com/users/772752814471905280) • [SimpleX Chat](https://smp11.simplex.im/a#jeXVz9wnA0jFJunUIT0VJlbGj9_1t9FP-5F8Zj1V1es)
 
 ---
 
